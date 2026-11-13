@@ -45,10 +45,10 @@
 										
 	6) Conditional Formatting:									
 		• Apply data bar or color scales conditional formatting in the "Price" column.	
-    Applied data bar in the "Price Column". 
+    Applied data bar in the "Price Column" in excel using "Conditional Formatting". 
     
 		• Create a custom rule for conditional formatting in the "Category" column to highlight cells where the category is "Electronics."
-    Highlighted the "Electronics" in the category column 
+    Highlighted the "Electronics" in the category column  using " Conditional Formatting"
 										
 										
 <img width="1374" height="599" alt="image" src="https://github.com/user-attachments/assets/4d7a627c-8215-43a5-ab01-ad34d99bcd5f" />
